@@ -1,6 +1,6 @@
-# Odevler
+# Odevler (HTML - CSS)
 
-## Odev1
+## HTML - Odev1
 
 ### Istenilenler:
 
@@ -10,7 +10,7 @@
 * Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
 * Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
 
-## Odev2
+## HTML - Odev2
 
 ### Istenilenler:
 
@@ -19,7 +19,7 @@
 * Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
 * Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
 
-## Odev3
+## HTML - Odev3
 
 ### Istenilenler:
 
@@ -27,8 +27,23 @@ Bu ödevimizde sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz b
 
 ![Yemek Tarifi](https://github.com/Kodluyoruz/taskforce/blob/main/html/html-odev3/figures/%C3%A7ikolatak%C3%BCpleri.PNG?raw=true)
 
-## Bolum Sonu Calismasi
+## Bolum Sonu Calismasi (HTML)
 
 - [Bolum Sonu Calismasi Index Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/bolum-sonu-calismasi.html)
 - [About Us Kismi](https://github.com/rrob1n/front-end-odevler/blob/main/about-us.html)
 - [Contact Kismi](https://github.com/rrob1n/front-end-odevler/blob/main/contact.html)
+
+
+## CSS - Odev1
+
+### Istenilenler:
+
+* HTML sayfasını sıfırdan oluşturacaksınız. Eklemek istediğiniz ekstra özellikler tamamen size kalmış durumda.
+Sitemiz birkaç sayfadan oluşacak. Yani menü kısmında linkler vererek başka sayfaya geçilebilecek.
+* Renkler tamamen sizin zevkinize kalmış durumda. Fakat renkler konusunda biraz yardım almak isterseniz Colorhunt renk paletleri konusunda muazzam bir site.
+* Yazacağınız CSS etiketlerini Inline ve Internal yazabilirsiniz. External kullanmak tamamen sizin tercihinizdir.
+CSS yazarken noktalı virgülleri unutmayın. Biliyorum unutacaksınız, olur böyle şeyler...
+* CSS ile ilgili yardımcı kaynak için w3schools.com'un CSS tutorialını, Türkçe kaynak için Fatih Hayrioğlu'nun web sitesini kullanabilirsiniz.
+* Kendini tekrar eden yapılar kullanmamaya özen gösteriniz. Ya da kendini tekrar eden yapılarda kullandığımız özelliği kullanın. (İpucu: Inline(Etikete Özel), Internal(Aynı Dosyada) ve External(CSS Dosyasında) CSS Kullanımı)
+* Sayfalarınızda kullandığınız fontlar için daha önce de videolarda bahsettiğimiz Google Fonts'u kullanabilirsiniz.
+* Ana sayfada bulunan listelerin noktalarını ortalamak için list-style-position: inside'i kullanabilirsiniz.
