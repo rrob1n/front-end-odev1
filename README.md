@@ -50,7 +50,7 @@ CSS yazarken noktalı virgülleri unutmayın. Biliyorum unutacaksınız, olur b�
 
 #### Odevin Dosyalari
 
-[Anasayfa HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1.html)
-[Urunlerimiz HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-urunlerimiz.html)
-[Hakkimizda HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-hakkimizda.html)
-[CSS Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css/css-odev1.css)
+- [Anasayfa HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1.html)
+- [Urunlerimiz HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-urunlerimiz.html)
+- [Hakkimizda HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-hakkimizda.html)
+- [CSS Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css/css-odev1.css)
