@@ -47,3 +47,10 @@ CSS yazarken noktalı virgülleri unutmayın. Biliyorum unutacaksınız, olur b�
 * Kendini tekrar eden yapılar kullanmamaya özen gösteriniz. Ya da kendini tekrar eden yapılarda kullandığımız özelliği kullanın. (İpucu: Inline(Etikete Özel), Internal(Aynı Dosyada) ve External(CSS Dosyasında) CSS Kullanımı)
 * Sayfalarınızda kullandığınız fontlar için daha önce de videolarda bahsettiğimiz Google Fonts'u kullanabilirsiniz.
 * Ana sayfada bulunan listelerin noktalarını ortalamak için list-style-position: inside'i kullanabilirsiniz.
+
+#### Odevin Dosyalari
+
+[Anasayfa HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1.html)
+[Urunlerimiz HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-urunlerimiz.html)
+[Hakkimizda HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev1-hakkimizda.html)
+[CSS Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css/css-odev1.css)
