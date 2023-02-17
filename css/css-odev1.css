@@ -1,0 +1,86 @@
+
+
+.ortala{
+    text-align: center;
+}
+
+.sirala{
+    display: inline-block;
+}
+
+body{
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#ekran-karti{
+    width: 400px;
+    height: 300px;
+}
+
+#anakart{
+    width: 400px;
+    height: 300px;
+}
+
+#ram{
+    width: 300px;
+    height: 300px;
+}
+
+#islemci{
+    width: 400px;
+    height: 300px;
+}
+
+.text-red{
+    color: red;
+}
+
+.text-large{
+    font-size: large;
+}
+
+#bosluk{
+    height: 20px;
+}
+
+#buyuk-bosluk{
+    height: 50px;
+}
+
+.text-yellow{
+    color: yellow;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 155px;  /* Height of the footer */
+    background: #6cf;
+}
+
+#misyonumuz{
+    
+    width: 100%;
+    background-color: green;
+}
+
+#vizyonumuz{
+
+    width: 100%;
+    background-color: green;
+}
+
+
+
