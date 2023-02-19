@@ -75,3 +75,8 @@ CSS yazarken noktalı virgülleri unutmayın. Biliyorum unutacaksınız, olur b�
 Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.
 * Sayfa ile alakalı detaylara sayfanın üzerine sağ tıklayıp "İncele/Inspect" diyerek ulaşabilirsiniz.
     Bu logo'yu kullanabilirsiniz.
+
+#### Odevin Dosyalari
+
+* [Anasayfa HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev2.html)
+* [CSS Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css/css-odev2.css)
