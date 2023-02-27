@@ -120,5 +120,9 @@ Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına ye
 * CSS dosyasında kullanılan bütün elementleri araştırıp ne işe yaradıklarını öğrenin. Daha sonra bunları kullanabileceğiniz projelerinizde kullanmaya özen gösterin.
 * Tasarımı mümkün olduğunca benzetmeniz gerekmekte. Buttonların, arama kısmının çalışmaması önemli değil.
 
+#### Odevin Dosyalari
+
+* [HTML Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css-odev3.html)
+* [CSS Dosyasi](https://github.com/rrob1n/front-end-odevler/blob/main/css/css-odev3.css)
 
 
