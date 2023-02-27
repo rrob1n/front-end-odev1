@@ -1,0 +1,170 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(32, 33, 36, 1);
+    
+}
+
+header{
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+#menuler{
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+
+#box-1{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+#box-2{
+    display: flex;
+    justify-content: center;
+}
+#box-3{
+    
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+}
+
+#kenarlik{
+    border: 0.5px solid white;
+    width: 600px;
+    border-radius: 20px;
+    height: 40px;
+
+}
+
+#arama-cubugu{
+    padding-top: 10px;
+    width: 480px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgba(32, 33, 36, 1);
+    border-style: hidden;
+}
+
+#klavye{
+    margin-bottom: 10px;
+}
+
+#google-ara{
+    background-color: rgba(32, 33, 36, 1);
+    color: white;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+#google-sansli{
+    color: white;
+    background-color:  rgba(32, 33, 36, 1);
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+footer{
+    margin-top: 420px;
+}
+
+
+/* Footer Begin */
+
+#dil{
+    background-color:  #171717;
+    color: white;
+    padding: 10px;
+}
+
+#en-alt{
+    padding: 10px;
+}
+
+#sol-menu{
+    
+    color: white;
+}
+#sol-menu li{
+    list-style-type: none;   
+}
+
+#sag-menu li{
+    list-style-type: none;
+    color: white;
+}
+
+#orta-menu{
+    color: white;
+}
+
+
+
+/* Footer End */
+
+/* Attributes */
+
+.flexbox-container-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexbox-container-end{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+
+#ekran{
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul li {
+    margin-top: 10px;
+    margin-right: 10px;
+    list-style-type: none;
+}
+
+#user-photo{
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.color-white{
+    color: white;
+}
+
+.bg-color-black{
+    background-color: #171717;
+}
+
+.space-between{
+    justify-content:space-between;
+}
